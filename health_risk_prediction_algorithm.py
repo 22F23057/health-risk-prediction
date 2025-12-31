@@ -11,7 +11,7 @@ def get_health_data():
 
 def health_risk_prediction():
     # Define threshold values
-    diabetes_threshold = 140  # Changed threshold for diabetes risk
+    diabetes_threshold = 150  # Changed threshold for diabetes risk
     low_heart_rate = 60      # Below this heart rate is considered too low
     high_heart_rate = 100    # Above this heart rate is considered too high
 
